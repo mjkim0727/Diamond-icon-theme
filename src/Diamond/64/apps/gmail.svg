@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="gmail.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.3125"
+     inkscape:cx="31.955801"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="947"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg371"
+     showguides="false" /><defs
+     id="defs368" /><path
+     d="M 2,32 C 2,9.5 9.5,2 32,2 54.5,2 62,9.5 62,32 62,54.5 54.5,62 32,62 9.5,62 2,54.5 2,32"
+     style="fill:#f5f5f5;fill-opacity:1;stroke-width:0.3"
+     id="path311" /><path
+     id="path523"
+     style="fill:#4285f4;stroke-width:1"
+     d="M 12,22.734376 V 44.273438 C 12,45.779884 13.20747,47 14.699218,47 H 20 V 28.792968 Z" /><path
+     id="path391"
+     style="fill:#34a853;stroke-width:1"
+     d="m 52,22.734376 -8,6.058592 V 47 h 5.300782 C 50.792528,47 52,45.779882 52,44.273438 Z" /><path
+     d="M 18.480002,28.911794 V 17.82533 l 13.52,10.083762 13.52,-10.083762 v 11.086464 l -13.52,10.086654 z"
+     style="fill:#ea4335;stroke-width:1"
+     id="path457"
+     sodipodi:nodetypes="ccccccc" /><path
+     id="path424"
+     style="fill:#fbbc04;stroke-width:1"
+     d="m 47.933594,17 c -0.821188,1.8e-5 -1.662918,0.255468 -2.414062,0.824218 L 44,18.976562 V 30.0625 l 8,-6.058594 v -2.90625 C 52,18.67574 50.032182,16.999954 47.933594,17 Z" /><path
+     id="path490"
+     style="fill:#c5221f;stroke-width:1"
+     d="M 16.066406,17 C 13.967816,16.999954 12,18.67574 12,21.097656 v 2.907894 l 8,6.058592 V 18.976562 L 18.480468,17.824218 C 17.729322,17.255466 16.887594,17.000018 16.066406,17 Z"
+     sodipodi:nodetypes="ssccccs" /></svg>
