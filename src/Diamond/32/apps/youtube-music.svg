@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="youtube-music.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25.78125"
+     inkscape:cx="15.980606"
+     inkscape:cy="16.038788"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg371"
+     showguides="false" /><defs
+     id="defs368" /><path
+     d="M 1,16 C 1,4.75 4.75,1 16,1 27.25,1 31,4.75 31,16 31,27.25 27.25,31 16,31 4.75,31 1,27.25 1,16"
+     style="fill:#f5f5f5;fill-opacity:1;stroke-width:0.15"
+     id="path311" /><circle
+     style="fill:#ff0000;fill-opacity:1;stroke-width:1.25;stroke-linecap:round"
+     id="path233"
+     cx="16"
+     cy="16.000002"
+     r="10" /><path
+     d="m 14.000001,13 5,2.999979 -5,3.000021 z"
+     style="fill:#ffffff;stroke-width:0.148643"
+     id="path301" /><path
+     id="path288"
+     style="fill:#ffffff;stroke-width:1.16667;stroke-linecap:round"
+     d="m 16.000001,9.000001 a 7,7 0 0 0 -7,6.999999 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-6.999999 z m 0,1 a 6,6 0 0 1 6,5.999999 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-5.999999 z" /></svg>
