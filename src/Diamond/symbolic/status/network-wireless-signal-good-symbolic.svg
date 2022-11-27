@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (1:1.2.1+202210291243+9c6d41e410)"
+   sodipodi:docname="network-wireless-signal-good-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.5625"
+     inkscape:cx="7.990303"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path840"
+     style="fill:#363636;fill-opacity:1;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round"
+     d="m 8,6.0058594 c -1.5376247,0 -3.0748047,0.5845703 -4.2421875,1.7519531 -0.3904236,0.390507 -0.3904236,1.0235555 0,1.4140625 0.390507,0.3904236 1.0235555,0.3904236 1.4140625,0 1.5704694,-1.5704694 4.0857805,-1.5704693 5.65625,0 0.390507,0.3904239 1.023556,0.3904239 1.414063,0 0.390424,-0.390507 0.390424,-1.0235555 0,-1.4140625 C 11.074804,6.5904298 9.5376247,6.0058593 8,6.0058594 Z M 8,10 C 7.1715729,10 6.5,10.671573 6.5,11.5 6.5,12.328427 7.1715729,13 8,13 8.8284271,13 9.5,12.328427 9.5,11.5 9.5,10.671573 8.8284271,10 8,10 Z"
+     sodipodi:nodetypes="sccccccssssss" />
+  <path
+     d="m 8,2.0058594 c -2.5613118,1e-7 -5.1218827,0.9753982 -7.0703125,2.9238281 -0.3904235,0.390507 -0.3904235,1.0235555 0,1.4140625 0.390507,0.3904236 1.0235555,0.3904236 1.4140625,0 3.1325634,-3.1325635 8.179936,-3.1325633 11.3125,0 0.390507,0.3904233 1.023555,0.3904233 1.414062,0 0.390424,-0.390507 0.390424,-1.0235555 0,-1.4140625 C 13.121882,2.9812577 10.561311,2.0058593 8,2.0058594 Z"
+     style="fill:#363636;fill-opacity:1;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;opacity:0.2"
+     id="path1186" />
+</svg>
