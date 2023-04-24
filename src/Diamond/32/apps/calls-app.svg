@@ -8,7 +8,7 @@
    version="1.1"
    id="svg371"
    xml:space="preserve"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
    sodipodi:docname="calls-app.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="22.625"
-     inkscape:cx="15.977901"
+     inkscape:zoom="25.3125"
+     inkscape:cx="16"
      inkscape:cy="16"
      inkscape:window-width="1920"
-     inkscape:window-height="947"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,10 +47,10 @@
        gradientTransform="scale(0.5)" /><linearGradient
        inkscape:collect="always"
        id="linearGradient2030"><stop
-         style="stop-color:#00969a;stop-opacity:1"
+         style="stop-color:#03a169;stop-opacity:1;"
          offset="0"
          id="stop2026" /><stop
-         style="stop-color:#01b091;stop-opacity:1"
+         style="stop-color:#10b86b;stop-opacity:1;"
          offset="1"
          id="stop2028" /></linearGradient></defs><path
      d="M 1,16 C 1,4.75 4.75,1 16,1 27.25,1 31,4.75 31,16 31,27.25 27.25,31 16,31 4.75,31 1,27.25 1,16"

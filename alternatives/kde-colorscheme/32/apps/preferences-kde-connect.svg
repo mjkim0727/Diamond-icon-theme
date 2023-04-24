@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="preferences-kde-connect.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25.78125"
+     inkscape:cx="13.924848"
+     inkscape:cy="15.980606"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg371"
+     showguides="true" />
+    <defs
+     id="defs368">
+     <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+    </defs>
+    <path
+     d="M 1,16 C 1,4.75 4.75,1 16,1 27.25,1 31,4.75 31,16 31,27.25 27.25,31 16,31 4.75,31 1,27.25 1,16"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.15"
+     class="ColorScheme-Highlight"
+     id="path311" />
+    <path
+     id="rect1034"
+     style="fill:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12 6 C 10.892001 6 10 6.8920011 10 8 L 10 24 C 10 25.107999 10.892001 26 12 26 L 20 26 C 21.107999 26 22 25.107999 22 24 L 22 8 C 22 6.8920011 21.107999 6 20 6 L 12 6 z M 14.210938 11 C 14.223756 10.999354 14.23702 11 14.25 11 C 14.665502 11 15 11.334499 15 11.75 C 15 12.165497 14.665502 12.5 14.25 12.5 C 13.834504 12.5 13.5 12.165497 13.5 11.75 C 13.5 11.347483 13.813569 11.020013 14.210938 11 z M 17.142578 11 L 20 13.666016 L 17.142578 16.333984 L 16 15.267578 L 17.714844 13.666016 L 16 12.066406 L 17.142578 11 z M 13 14 C 13.554 14 14 14.446001 14 15 C 14 15.553994 13.554 16 13 16 C 12.446008 16 12 15.553994 12 15 C 12 14.446001 12.446008 14 13 14 z M 15 17 C 15.553997 17 16 17.446004 16 18 C 16 18.553996 15.553997 19 15 19 C 14.446004 19 14 18.553996 14 18 C 14 17.446004 14.446004 17 15 17 z M 14 22 L 18 22 C 18.553998 22 19 22.446002 19 23 C 19 23.553998 18.553998 24 18 24 L 14 24 C 13.446002 24 13 23.553998 13 23 C 13 22.446002 13.446002 22 14 22 z " />
+</svg>
