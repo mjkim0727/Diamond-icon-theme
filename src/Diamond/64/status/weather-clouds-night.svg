@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64.000002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="weather-clouds-night.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.65625"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path286"
+     style="fill:#f5c241;fill-opacity:1;stroke-width:3.6923;stroke-linecap:round;stroke-linejoin:round"
+     d="M 29.042968,7.0429688 A 24,24 0 0 0 12,30 24,24 0 0 0 36,54 24,24 0 0 0 58.957032,36.957032 24,24 0 0 1 52,38 24,24 0 0 1 28,14 24,24 0 0 1 29.042968,7.0429688 Z" />
+  <path
+     id="rect483"
+     style="fill:#f8f8f8;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 16 36 A 12 12 0 0 0 4 48 A 12 12 0 0 0 16 60 A 12 12 0 0 0 16.958984 59.931641 C 17.299948 59.975621 17.646684 60 18 60 L 30 60 C 34.431996 60 38 56.431996 38 52 C 38 47.568004 34.431996 44 30 44 L 27.3125 44 A 12 12 0 0 0 16 36 z " />
+</svg>

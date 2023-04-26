@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewbox="0 0 200 200"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="preferences-desktop-theme-applications.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.3125"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="M 1,16 C 1,4.7499998 4.75,1 16,1 27.25,1 31,4.7499998 31,16 31,27.25 27.25,31 16,31 4.75,31 1,27.25 1,16"
+     style="fill:#c47bdf;fill-opacity:1;stroke-width:0.15"
+     id="path311" />
+  <path
+     id="rect899"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="M 21 8 A 3 3 0 0 0 18.179688 10 L 7 10 C 6.4460006 10 6 10.446001 6 11 C 6 11.553999 6.4460006 12 7 12 L 18.179688 12 A 3 3 0 0 0 21 14 A 3 3 0 0 0 23.820312 12 L 25 12 C 25.553999 12 26 11.553999 26 11 C 26 10.446001 25.553999 10 25 10 L 23.828125 10 A 3 3 0 0 0 21 8 z M 11 18 A 3 3 0 0 0 8.1796875 20 L 7 20 C 6.4460006 20 6 20.446001 6 21 C 6 21.553999 6.4460006 22 7 22 L 8.1796875 22 A 3 3 0 0 0 11 24 A 3 3 0 0 0 13.820312 22 L 25 22 C 25.553999 22 26 21.553999 26 21 C 26 20.446001 25.553999 20 25 20 L 13.828125 20 A 3 3 0 0 0 11 18 z " />
+</svg>

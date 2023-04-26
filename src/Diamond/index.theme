@@ -179,6 +179,11 @@ Context=Places
 Size=22
 Type=Fixed
 
+[22/preferences]
+Context=Applications
+Size=22
+Type=Fixed
+
 [22/status]
 Context=Status
 Size=22
@@ -224,6 +229,12 @@ Type=Fixed
 
 [22@2x/places]
 Context=Places
+Size=22
+Scale=2
+Type=Fixed
+
+[22@2x/preferences]
+Context=Applications
 Size=22
 Scale=2
 Type=Fixed
@@ -275,6 +286,11 @@ Type=Fixed
 
 [24/places]
 Context=Places
+Size=24
+Type=Fixed
+
+[24/preferences]
+Context=Applications
 Size=24
 Type=Fixed
 
@@ -330,6 +346,12 @@ Type=Fixed
 
 [24@2x/places]
 Context=Places
+Size=24
+Scale=2
+Type=Fixed
+
+[24@2x/preferences]
+Context=Applications
 Size=24
 Scale=2
 Type=Fixed

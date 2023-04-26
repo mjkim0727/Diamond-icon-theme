@@ -47,7 +47,7 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="16.875"
-     inkscape:cx="23.97037"
+     inkscape:cx="24"
      inkscape:cy="24"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
@@ -70,6 +70,6 @@
   <path
      id="path1021"
      style="fill:#2d96ff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="m 24,14 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z m 0,6 c -1.107998,0 -2,0.892002 -2,2 v 10 c 0,1.107998 0.892002,2 2,2 1.107998,0 2,-0.892002 2,-2 V 22 c 0,-1.107998 -0.892002,-2 -2,-2 z"
+     d="m 24,14 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z m 0,7 c -1.107998,0 -2,0.892002 -2,2 v 9 c 0,1.107998 0.892002,2 2,2 1.107998,0 2,-0.892002 2,-2 v -9 c 0,-1.107998 -0.892002,-2 -2,-2 z"
      sodipodi:nodetypes="ssssssssssss" />
 </svg>

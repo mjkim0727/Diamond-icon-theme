@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="preferences-desktop-navigation.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25.3125"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg371"
+     showguides="true" /><defs
+     id="defs368" /><path
+     d="M 1,16 C 1,4.75 4.75,1 16,1 27.25,1 31,4.75 31,16 31,27.25 27.25,31 16,31 4.75,31 1,27.25 1,16"
+     style="fill:#9c9c9c;fill-opacity:1;stroke-width:0.15"
+     id="path311" /><path
+     id="path2496"
+     style="color:#000000;fill:#f8f8f8;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 23.815429,7.222656 C 23.667314,7.2171105 23.516517,7.244359 23.375,7.3066405 L 13.122071,12.610352 c -0.228836,0.10074 -0.411956,0.282883 -0.512696,0.511719 L 7.3066405,23.375 c -0.365823,0.834265 0.483118,1.684182 1.317383,1.318359 L 18.876953,19.389648 c 0.228835,-0.100739 0.411956,-0.28386 0.512695,-0.512695 L 24.692383,8.6240235 C 24.858466,8.246647 24.775777,7.8063355 24.484375,7.5146485 24.30207,7.3325215 24.062288,7.231899 23.815429,7.222656 Z M 16,14 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z" /></svg>
