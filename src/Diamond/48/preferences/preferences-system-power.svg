@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="preferences-system-power.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.458333"
+     inkscape:cx="23.96962"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg371"
+     showguides="false"
+     inkscape:lockguides="true" /><defs
+     id="defs368" /><path
+     d="M 2,24 C 2,7.5 7.5,2 24,2 40.5,2 46,7.5 46,24 46,40.5 40.5,46 24,46 7.5,46 2,40.5 2,24"
+     style="fill:#55e147;fill-opacity:1;stroke:none;stroke-width:0.22"
+     id="path311"
+     sodipodi:nodetypes="csssc" /><path
+     id="path1721"
+     style="color:#000000;fill:#ffffff;stroke-width:3.0003;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 25.565918,9.0022308 c -0.08311,-0.00398 -0.166403,-0.00104 -0.249024,0.00879 -0.459127,0.056203 -0.866661,0.3210465 -1.104492,0.717774 l -9,15.0029292 C 14.614486,25.731215 15.333852,26.998936 16.498535,27 h 5.800782 l -1.289064,10.314731 c -0.199207,1.607956 1.93902,2.346288 2.774415,0.958008 L 32.787597,23.26981 C 33.385514,22.270318 32.666148,21.001063 31.501464,21 H 25.697753 L 26.986817,10.686802 C 27.095212,9.8183172 26.440246,9.0418106 25.565918,9.0022308 Z"
+     sodipodi:nodetypes="ccccccccccccc" /></svg>
