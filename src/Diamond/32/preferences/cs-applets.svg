@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewbox="0 0 200 200"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="cs-applets.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.3125"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="M 1,16 C 1,4.7499998 4.75,1 16,1 27.25,1 31,4.7499998 31,16 31,27.25 27.25,31 16,31 4.75,31 1,27.25 1,16"
+     style="fill:#28b9d8;fill-opacity:1;stroke-width:0.15"
+     id="path311" />
+  <path
+     id="rect840"
+     style="fill:#ffffff;stroke:none;stroke-width:0.707105;stroke-linecap:round;stroke-linejoin:round"
+     d="m 7,22 c -0.5539995,0 -1,0.446 -1,1 0,0.553999 0.4460005,1 1,1 h 18 c 0.553999,0 1,-0.446001 1,-1 0,-0.554 -0.446001,-1 -1,-1 z"
+     sodipodi:nodetypes="sssssss" />
+  <path
+     id="rect1140"
+     style="fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 6.5,16 C 5.6690008,16 5,16.669001 5,17.5 v 1 C 5,19.330999 5.6690008,20 6.5,20 h 1 C 8.3309992,20 9,19.330999 9,18.5 v -1 C 9,16.669001 8.3309992,16 7.5,16 Z m 6,0 C 11.669001,16 11,16.669001 11,17.5 v 1 c 0,0.830999 0.669001,1.5 1.5,1.5 h 1 c 0.830999,0 1.5,-0.669001 1.5,-1.5 v -1 C 15,16.669001 14.330999,16 13.5,16 Z m 6,0 C 17.669001,16 17,16.669001 17,17.5 v 1 c 0,0.830999 0.669001,1.5 1.5,1.5 h 1 c 0.830999,0 1.5,-0.669001 1.5,-1.5 v -1 C 21,16.669001 20.330999,16 19.5,16 Z m 6,0 C 23.669001,16 23,16.669001 23,17.5 v 1 c 0,0.830999 0.669001,1.5 1.5,1.5 h 1 c 0.830999,0 1.5,-0.669001 1.5,-1.5 v -1 C 27,16.669001 26.330999,16 25.5,16 Z" />
+</svg>
