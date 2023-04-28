@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="preferences-desktop-display.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="13.166667"
+     inkscape:cx="32.012658"
+     inkscape:cy="31.974684"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg371"
+     showguides="false"
+     inkscape:lockguides="true" /><defs
+     id="defs368" /><path
+     d="M 2,32 C 2,9.5 9.5,2 32,2 54.5,2 62,9.5 62,32 62,54.5 54.5,62 32,62 9.5,62 2,54.5 2,32"
+     style="fill:#afe147;fill-opacity:1;stroke:none;stroke-width:0.3"
+     id="path311"
+     sodipodi:nodetypes="csssc" /><path
+     id="rect1499"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 18,15 c -3.32399,0 -6,2.67601 -6,6 v 16 c 0,3.323989 2.67601,6 6,6 h 28 c 3.323989,0 6,-2.676011 6,-6 V 21 c 0,-3.32399 -2.676011,-6 -6,-6 z m 0,2 h 28 c 2.215994,0 4,1.784006 4,4 v 16 c 0,2.215994 -1.784006,4 -4,4 H 18 c -2.215994,0 -4,-1.784006 -4,-4 V 21 c 0,-2.215994 1.784006,-4 4,-4 z m 5,30 c -0.553999,0 -1,0.446001 -1,1 0,0.553999 0.446001,1 1,1 h 18 c 0.553999,0 1,-0.446001 1,-1 0,-0.553999 -0.446001,-1 -1,-1 z" /></svg>

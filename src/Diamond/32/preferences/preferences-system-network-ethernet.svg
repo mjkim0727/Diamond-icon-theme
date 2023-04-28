@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="preferences-system-network-ethernet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.6875"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg371"
+     showguides="false" /><defs
+     id="defs368" /><path
+     d="M 1,16 C 1,4.75 4.75,1 16,1 27.25,1 31,4.75 31,16 31,27.25 27.25,31 16,31 4.75,31 1,27.25 1,16"
+     style="fill:#54abe9;fill-opacity:1;stroke-width:0.15"
+     id="path311" /><path
+     id="rect894"
+     style="fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 10.244141 10.755859 C 9.9885216 10.755859 9.7329777 10.854913 9.5371094 11.050781 L 5.2929688 15.292969 C 4.9012321 15.684705 4.9012321 16.315295 5.2929688 16.707031 L 9.5371094 20.949219 C 9.9288461 21.340955 10.559435 21.340955 10.951172 20.949219 C 11.342907 20.557483 11.342907 19.926892 10.951172 19.535156 L 7.4160156 16 L 10.951172 12.464844 C 11.342908 12.073108 11.342908 11.442517 10.951172 11.050781 C 10.755304 10.854913 10.49976 10.755859 10.244141 10.755859 z M 21.757812 10.755859 C 21.502194 10.755859 21.244696 10.854913 21.048828 11.050781 C 20.657092 11.442517 20.657092 12.073108 21.048828 12.464844 L 24.585938 16 L 21.048828 19.535156 C 20.657093 19.926892 20.657093 20.557483 21.048828 20.949219 C 21.440565 21.340955 22.073107 21.340955 22.464844 20.949219 L 26.707031 16.707031 C 27.098768 16.315295 27.098768 15.684705 26.707031 15.292969 L 22.464844 11.050781 C 22.268975 10.854913 22.013431 10.755859 21.757812 10.755859 z M 12 15 C 11.446001 15 11 15.446001 11 16 C 11 16.553999 11.446001 17 12 17 L 20 17 C 20.553999 17 21 16.553999 21 16 C 21 15.446001 20.553999 15 20 15 L 12 15 z " /></svg>
