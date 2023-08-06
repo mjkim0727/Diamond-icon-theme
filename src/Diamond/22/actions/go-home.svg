@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="go-home.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview373"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="px"
+   showgrid="false"
+   inkscape:zoom="36.636364"
+   inkscape:cx="11"
+   inkscape:cy="11"
+   inkscape:window-width="1920"
+   inkscape:window-height="1008"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg371"
+   showguides="false" />
+    <defs
+   id="defs368">
+        <style
+   id="current-color-scheme"
+   type="text/css">
+         .ColorScheme-Text { color:#363636; }
+        </style>
+    </defs>
+    <path
+   id="path967"
+   style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   class="ColorScheme-Text"
+   d="m 11.000002,3.046875 c -0.766852,0 -1.5334899,0.2952077 -2.1210939,0.8828125 L 3.9296894,8.8789062 C 3.0462072,9.6474158 2.9995059,9.8913962 3.0000019,11.000001 V 17 c 0,1.104565 0.8954342,2 2,2 H 17.000002 c 1.104566,0 2,-0.895435 2,-2 V 11.000001 C 18.934802,9.8611902 18.761745,9.5950748 18.070314,8.8789062 L 13.121096,3.9296875 C 12.533491,3.3420827 11.766854,3.046875 11.000002,3.046875 Z m 0,1 c 0.510214,0 1.015559,0.19134 1.414063,0.5898438 l 4.937499,4.9375 c 0.656719,0.6802162 0.591644,0.4539732 0.648438,1.4648452 V 17 c 0,0.564123 -0.435876,1 -1,1 h -2 v -5.999999 c 0,-1.107997 -0.892003,-2.000001 -2,-2.000001 H 9.0000019 c -1.1079967,0 -2,0.892004 -2,2.000001 V 18 h -2 c -0.5641245,0 -1,-0.435877 -1,-1 v -5.999999 c -2.417e-4,-0.540227 0.030688,-0.739045 0.058594,-0.806641 0.027906,-0.0676 0.1185563,-0.2049582 0.5273437,-0.5605475 a 1.0001,1.0001 0 0 0 0.050781,-0.046875 L 9.5859394,4.6367188 C 9.9844422,4.2382151 10.489788,4.046875 11.000002,4.046875 Z m -2.0000001,6.953126 h 4.0000001 c 0.553997,0 1,0.446002 1,1 V 18 H 8.0000019 v -5.999999 c 0,-0.553998 0.4460018,-1 1,-1 z" />
+    </svg>

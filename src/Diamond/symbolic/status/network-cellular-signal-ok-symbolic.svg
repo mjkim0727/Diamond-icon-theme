@@ -37,11 +37,11 @@
      id="defs2" />
   <path
      id="rect788"
-     style="fill:#363636;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#4d4d4d;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
      d="M 6,8 C 5.4460006,8 5,8.4460006 5,9 v 5 c 0,0.553999 0.4460006,1 1,1 0.5539994,0 1,-0.446001 1,-1 V 9 C 7,8.4460006 6.5539994,8 6,8 Z m -4,3 c -0.5539994,0 -1,0.446001 -1,1 v 2 c 0,0.553999 0.4460006,1 1,1 0.5539994,0 1,-0.446001 1,-1 V 12 C 3,11.446001 2.5539994,11 2,11 Z"
      sodipodi:nodetypes="ssssssssssssss" />
   <path
      id="path1030"
-     style="fill:#363636;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;opacity:0.3"
+     style="fill:#4d4d4d;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;opacity:0.3"
      d="M 14 2 C 13.446002 2 13 2.4460012 13 3 L 13 14 C 13 14.553998 13.446002 15 14 15 C 14.553998 15 15 14.553998 15 14 L 15 3 C 15 2.4460012 14.553998 2 14 2 z M 10 5 C 9.4460016 5 9 5.4460012 9 6 L 9 14 C 9 14.553998 9.4460016 15 10 15 C 10.553998 15 11 14.553998 11 14 L 11 6 C 11 5.4460012 10.553998 5 10 5 z " />
 </svg>
