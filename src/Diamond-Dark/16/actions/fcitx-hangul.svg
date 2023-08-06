@@ -37,7 +37,7 @@
      id="defs402" />
   <path
      id="rect1132"
-     style="fill:#4d4d4d;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#dfdfdf;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
      d="M 2,0 C 0.89200111,0 0,0.89200111 0,2 v 12 c 0,1.107999 0.89200111,2 2,2 h 12 c 1.107999,0 2,-0.892001 2,-2 V 2 C 16,0.89200111 15.107999,0 14,0 Z m 8,2 h 2 v 5 h 2 v 2 h -2 v 5 H 10 Z M 2,4 h 6 v 1 c 0,6.113688 -3.3535876,6.628749 -6,7 V 10 C 4.1119589,9.7843592 6,9.000476 6,6 H 2 Z"
      sodipodi:nodetypes="ssssssssscccccccccccsccccc" />
 </svg>

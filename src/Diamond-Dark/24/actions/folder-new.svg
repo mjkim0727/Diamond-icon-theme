@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="folder-new.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="33.583333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#dfdfdf; }
+        </style>
+  </defs>
+  <path
+     id="rect788"
+     style="fill:currentColor;stroke:none"
+     class="ColorScheme-Text"
+     d="M 6 5 C 4.8920022 5 4 5.8920022 4 7 L 4 17 C 4 18.107998 4.8920022 19 6 19 L 13 19 L 13 18 L 6 18 C 5.4460012 18 5 17.553998 5 17 L 5 7 C 5 6.4460012 5.4460012 6 6 6 L 9.5 6 C 10.050835 5.99717 10.129922 6.1121009 10.412109 6.4121094 L 12.025391 8.5253906 C 12.415926 8.9446625 12.694738 9.002665 13.310547 9 L 18 9 C 18.673591 8.99787 19.012178 9.3007602 19 10 L 19 12 L 20 12 L 20 10 C 20 8.8920022 19.107998 7.999982 18 8 L 13 8 L 11.154297 5.6542969 C 10.581874 5.0382464 10.309982 5 9.5 5 L 6 5 z " />
+  <path
+     id="rect820"
+     style="fill:#dfdfdf;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+     d="m 17,13 v 3 h -3 v 1 h 3 v 3 h 1 v -3 h 3 v -1 h -3 v -3 z" />
+</svg>

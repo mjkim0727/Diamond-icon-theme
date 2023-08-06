@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg11945"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="im-user.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11947"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="33.583333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11945"
+     showguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs11942">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#dfdfdf; }
+        </style>
+  </defs>
+  <path
+     id="path1130"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.666663"
+     class="ColorScheme-Text"
+     d="M 12,4 C 9.7908853,4 8,5.7908831 8,8 c 0,2.209115 1.7908853,4 4,4 2.209116,0 4,-1.790885 4,-4 C 16,5.7908831 14.209116,4 12,4 Z M 11.92187,5 C 11.94761,4.999348 11.9741,5 12,5 c 1.656837,0 3,1.3431622 3,3 0,1.6568362 -1.343163,3 -3,3 C 10.343164,11 9,9.6568362 9,8 9,6.3690502 10.300826,5.0410704 11.921875,5 Z M 12,13 c -4.5518457,0 -7.0000004,2.947583 -7,6 0,0.553994 0.4460048,1 1,1 h 12 c 0.553995,0 1,-0.446006 1,-1 0,-3.052417 -2.448154,-6 -7,-6 z m 0,1 c 3.499991,-0.003 5.991882,2.173482 6,5 H 6 c 0.00812,-2.826518 2.5000106,-5.003041 6,-5 z" />
+</svg>

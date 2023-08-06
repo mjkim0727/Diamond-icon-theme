@@ -6,15 +6,15 @@
    height="16"
    viewBox="0 0 16 16"
    version="1.1"
-   id="svg405"
+   id="svg5"
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
-   sodipodi:docname="fcitx-hangul.svg"
+   sodipodi:docname="folder-new.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview407"
+     id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -32,12 +32,19 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg405" />
+     inkscape:current-layer="svg5"
+     showguides="false" />
   <defs
-     id="defs402" />
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#4d4d4d; }
+        </style>
+  </defs>
   <path
-     id="rect1132"
-     style="fill:#4d4d4d;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
-     d="M 2,0 C 0.89200111,0 0,0.89200111 0,2 v 12 c 0,1.107999 0.89200111,2 2,2 h 12 c 1.107999,0 2,-0.892001 2,-2 V 2 C 16,0.89200111 15.107999,0 14,0 Z m 8,2 h 2 v 5 h 2 v 2 h -2 v 5 H 10 Z M 2,4 h 6 v 1 c 0,6.113688 -3.3535876,6.628749 -6,7 V 10 C 4.1119589,9.7843592 6,9.000476 6,6 H 2 Z"
-     sodipodi:nodetypes="ssssssssscccccccccccsccccc" />
+     id="rect788"
+     style="fill:currentColor;stroke:none"
+     class="ColorScheme-Text"
+     d="M 3 2 C 1.8920033 2 1 2.8920033 1 4 L 1 13 C 1 14.107997 1.8920033 15 3 15 L 10 15 L 10 14 L 3 14 C 2.4460018 14 2 13.553997 2 13 L 2 4 C 2 3.4460018 2.4460018 3 3 3 L 6 3 C 6.5508346 2.99717 6.6299215 3.1121012 6.9121094 3.4121094 L 7.5253906 4.5253906 C 7.9159259 4.9446621 8.1947387 5.002665 8.8105469 5 L 13 5 C 13.67359 4.99787 14.012178 5.3007609 14 6 L 14 10 L 15 10 L 15 6 C 15 4.8920033 14.107997 3.9999743 13 4 L 8.5 4 L 7.6542969 2.6542969 C 7.0818751 2.038247 6.809981 2 6 2 L 3 2 z M 13 11 L 13 13 L 11 13 L 11 14 L 13 14 L 13 16 L 14 16 L 14 14 L 16 14 L 16 13 L 14 13 L 14 11 L 13 11 z " />
 </svg>
