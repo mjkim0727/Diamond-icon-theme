@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg405"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="fcitx-chewing-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview407"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="33.583333"
+     inkscape:cx="11.985112"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg405" />
+  <defs
+     id="defs402">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#dfdfdf; }
+        </style>
+  </defs>
+  <path
+     id="path343"
+     style="fill:currentColor;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="M 7,4 C 5.3380051,4 4,5.3380051 4,7 v 10 c 0,1.661994 1.3380051,3 3,3 h 10 c 1.661994,0 3,-1.338006 3,-3 V 7 C 20,5.3380051 18.661994,4 17,4 Z M 6,6 h 6 v 1 h -2 v 3 H 11.5 12 L 11.599609,9.6992188 C 11.599609,9.6992188 13,7.7499982 13,6 h 1 c 0,0.7086993 -0.165413,1.3887006 -0.382812,2 H 15 V 6 h 1 v 2 h 2 v 1 h -2 v 2 h 2 v 1 h -5 v -1 h 2 V 9 h -1.802734 c -0.3987,0.7895992 -0.796875,1.300781 -0.796875,1.300781 L 12,10 v 8 H 6 V 10 H 7 V 7 H 6 Z m 2,1 v 3 H 9 V 7 Z m 0,4 v 3 H 7 v 1 h 3 v 1 H 7 v 1 h 4 v -6 h -1 v 3 H 9 v -3 z m 5,2 h 5 v 5 h -5 z m 1,1 v 3 h 3 v -3 z" />
+</svg>
