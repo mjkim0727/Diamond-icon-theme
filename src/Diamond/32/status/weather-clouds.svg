@@ -7,7 +7,7 @@
    viewBox="0 0 32 32.000001"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="weather-clouds.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="25.3125"
+     inkscape:zoom="25.1875"
      inkscape:cx="16"
      inkscape:cy="16"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -36,13 +36,20 @@
   <defs
      id="defs2" />
   <circle
-     style="fill:#f5c241;fill-opacity:1;stroke-width:1.69231;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#fdbb1c;fill-opacity:1;stroke-width:1.07692;stroke-linecap:round;stroke-linejoin:round"
      id="path286"
-     cx="17"
-     cy="15"
-     r="11" />
+     cx="22"
+     cy="12"
+     r="7" />
   <path
-     id="rect483"
-     style="fill:#f8f8f8;fill-opacity:1;stroke-width:1.33334;stroke-linecap:round;stroke-linejoin:round"
-     d="m 8,18 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 0.479492,-0.03418 C 8.649974,29.98781 8.823342,30 9,30 h 6 c 2.215998,0 4,-1.784002 4,-4 0,-2.215998 -1.784002,-4 -4,-4 H 13.65625 A 6,6 0 0 0 8,18 Z" />
+     id="rect340"
+     style="fill:#dedede;stroke-width:2.33332;stroke-linecap:round;stroke-linejoin:round"
+     d="m 13.000001,14 h 10 C 26.878,14 30,17.122 30,21.000001 30,24.878 26.878,28 23.000001,28 H 12 C 12,28 6,24.878 6,21.000001 6,17.122 9.122,14 13.000001,14 Z"
+     sodipodi:nodetypes="sssscss" />
+  <circle
+     style="fill:#f8f8f8;fill-opacity:1;stroke-width:3.33334;stroke-linecap:round;stroke-linejoin:round"
+     id="path340"
+     cx="12"
+     cy="18"
+     r="10" />
 </svg>

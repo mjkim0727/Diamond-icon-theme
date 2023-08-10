@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="weather-showers.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.791667"
+     inkscape:cx="23.970223"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect788"
+     style="fill:#74bcf8;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 12.757812,13.240234 c -0.511237,1e-6 -1.024279,0.196154 -1.416015,0.587891 l -7.0703127,7.070312 c -0.7834736,0.783474 -0.7834736,2.044652 0,2.828126 0.7834736,0.783473 2.0446516,0.783473 2.8281252,-10e-7 l 7.0722785,-7.070299 c 0.783474,-0.783473 0.783474,-2.044651 1e-6,-2.828124 -0.391738,-0.391738 -0.902825,-0.587891 -1.414063,-0.587891 z m 10.726563,0.273438 c -0.511238,0 -1.022326,0.194201 -1.414063,0.585937 L 2.2714978,33.900404 c -0.7834736,0.783474 -0.7834729,2.044652 0,2.828124 0.7834736,0.783474 2.0446516,0.783475 2.8281252,1e-6 L 24.898451,16.929701 c 0.783474,-0.783474 0.783473,-2.046605 0,-2.830078 -0.391737,-0.391737 -0.902825,-0.585938 -1.414062,-0.585938 z m 20,3 c -0.511238,0 -1.022326,0.196154 -1.414063,0.587891 l -0.828281,0.828281 c -0.783473,0.783473 -0.783473,2.044652 0,2.828125 0.783473,0.783473 2.044652,0.783473 2.828125,0 l 0.828281,-0.828281 c 0.783474,-0.783474 0.783474,-2.044652 0,-2.828126 -0.391736,-0.391736 -0.902824,-0.587891 -1.414062,-0.58789 z m -15.363282,3.363281 c -0.511237,0 -1.022325,0.196154 -1.414062,0.587891 l -7.072279,7.070299 c -0.783473,0.783474 -0.783473,2.044651 0,2.828125 0.783474,0.783473 2.044651,0.783473 2.828125,0 l 7.072279,-7.0703 c 0.783473,-0.783473 0.783474,-2.044651 0,-2.828124 -0.391736,-0.391737 -0.902825,-0.587891 -1.414063,-0.587891 z m 9.292814,2.707188 c -0.511239,0 -1.022327,0.196154 -1.414063,0.58789 L 24.099609,35.072266 c -0.783473,0.783473 -0.783473,2.044651 0,2.828124 0.783474,0.783474 2.044652,0.783474 2.828126,10e-7 L 38.827969,26.000156 c 0.783473,-0.783473 0.783473,-2.044651 -1e-6,-2.828125 -0.391736,-0.391736 -0.902825,-0.58789 -1.414061,-0.58789 z"
+     sodipodi:nodetypes="ssssccsssccssssssssssssssccsccssssssssss" />
+</svg>

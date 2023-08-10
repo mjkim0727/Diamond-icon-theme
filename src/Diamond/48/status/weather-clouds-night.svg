@@ -7,7 +7,7 @@
    viewBox="0 0 48 48.000001"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="weather-clouds-night.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="16.875"
+     inkscape:zoom="16.791667"
      inkscape:cx="24"
      inkscape:cy="24"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -37,11 +37,17 @@
      id="defs2" />
   <path
      id="path286"
-     style="fill:#f5c241;fill-opacity:1;stroke-width:2.61538;stroke-linecap:round;stroke-linejoin:round"
-     d="M 22.072102,4.7385556 A 17,17 0 0 0 10,20.999787 a 17,17 0 0 0 17,17 17,17 0 0 0 16.261231,-12.072103 17,17 0 0 1 -4.927898,0.738769 17,17 0 0 1 -17,-17 17,17 0 0 1 0.738769,-4.9278974 z" />
+     style="fill:#fdbb1c;fill-opacity:1;stroke-width:1.38461;stroke-linecap:round;stroke-linejoin:round"
+     d="M 32.391113,6.3911132 A 9,9 0 0 0 26,15 9,9 0 0 0 35,24 9,9 0 0 0 43.608887,17.608887 9,9 0 0 1 41,18 9,9 0 0 1 32,9 9,9 0 0 1 32.391113,6.3911132 Z" />
   <path
-     id="rect483"
-     style="fill:#f8f8f8;fill-opacity:1;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round"
-     d="m 13,26 c -4.9705627,0 -9,4.029437 -9,9 0,4.970563 4.0294373,9 9,9 0.240335,-0.0075 0.480273,-0.02458 0.719238,-0.05127 C 13.974961,43.981715 14.235013,44 14.5,44 H 24 c 3.323997,0 6,-2.676003 6,-6 0,-3.323997 -2.676003,-6 -6,-6 H 21.484375 C 20.213137,28.404396 16.813714,26.000384 13,26 Z"
-     sodipodi:nodetypes="csccsssscc" />
+     id="rect340"
+     style="fill:#dedede;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="m 23.000001,22 h 12 C 39.986001,22 44,26.014 44,31 c 0,4.986 -4.013999,9 -8.999999,9 H 18 c 0,0 -3.999999,-4.014 -3.999999,-9 0,-4.986 4.014,-9 9,-9 z"
+     sodipodi:nodetypes="sssscss" />
+  <circle
+     style="fill:#f8f8f8;fill-opacity:1;stroke-width:3.11111;stroke-linecap:round;stroke-linejoin:round"
+     id="path1224"
+     cx="18"
+     cy="26"
+     r="14" />
 </svg>

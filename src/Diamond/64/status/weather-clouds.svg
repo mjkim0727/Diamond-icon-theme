@@ -7,7 +7,7 @@
    viewBox="0 0 64 64.000002"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="weather-clouds.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.65625"
+     inkscape:zoom="12.59375"
      inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -36,13 +36,20 @@
   <defs
      id="defs2" />
   <circle
-     style="fill:#f5c241;fill-opacity:1;stroke-width:3.38462;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#fdbb1c;fill-opacity:1;stroke-width:2.15384;stroke-linecap:round;stroke-linejoin:round"
      id="path286"
-     cx="34"
-     cy="30"
-     r="22" />
+     cx="44"
+     cy="24"
+     r="14" />
   <path
-     id="rect483"
-     style="fill:#f8f8f8;fill-opacity:1;stroke-width:2.66668;stroke-linecap:round;stroke-linejoin:round"
-     d="M 16,36 A 12,12 0 0 0 4,48 12,12 0 0 0 16,60 12,12 0 0 0 16.958984,59.93164 C 17.299948,59.97562 17.646684,60 18,60 h 12 c 4.431996,0 8,-3.568004 8,-8 0,-4.431996 -3.568004,-8 -8,-8 H 27.3125 A 12,12 0 0 0 16,36 Z" />
+     id="rect340"
+     style="fill:#dedede;stroke-width:4.66664;stroke-linecap:round;stroke-linejoin:round"
+     d="m 26.000002,28 h 20 C 53.756,28 60,34.244 60,42.000002 60,49.756 53.756,56 46.000002,56 H 24 C 24,56 12,49.756 12,42.000002 12,34.244 18.244,28 26.000002,28 Z"
+     sodipodi:nodetypes="sssscss" />
+  <circle
+     style="fill:#f8f8f8;fill-opacity:1;stroke-width:6.66668;stroke-linecap:round;stroke-linejoin:round"
+     id="path340"
+     cx="24"
+     cy="36"
+     r="20" />
 </svg>
