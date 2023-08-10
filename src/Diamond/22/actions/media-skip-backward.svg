@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="36.636364"
-     inkscape:cx="11"
+     inkscape:cx="10.727047"
      inkscape:cy="11"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -43,7 +43,8 @@
   </defs>
   <path
      id="path924"
-     style="fill:currentColor;fill-opacity:1;stroke-width:2.23878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.746246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1"
      class="ColorScheme-Text"
-     d="M 17.654297,3 C 18.363275,3.0252087 18.998746,3.6045823 19,4.4003906 V 17.599609 c -0.0018,1.061078 -1.131342,1.73571 -2.058594,1.228516 L 6,12.390625 V 18 C 6,18.553999 5.553999,19 5,19 4.446001,19 4,18.553999 4,18 V 4 C 4,3.4460006 4.446001,3 5,3 5.553999,3 6,3.4460006 6,4 v 5.609375 l 10.941406,-6.4375 C 17.173219,3.0450764 17.417971,2.9915971 17.654297,3 Z" />
+     d="M 3.5,6 C 3.223,6 3,6.2230003 3,6.5 v 9 C 3,15.777 3.223,16 3.5,16 3.777,16 4,15.777 4,15.5 v -3.925966 l 7.314227,4.369325 c 0.309078,0.169061 0.684947,-0.05647 0.685547,-0.410156 v -3.968934 l 7.314452,4.37909 c 0.309078,0.169061 0.684948,-0.05647 0.685547,-0.410156 V 6.4667969 C 19.999216,6.1131114 19.623304,5.8895323 19.314226,6.0585938 L 11.999774,10.437315 V 6.4667969 C 11.999356,6.2015328 11.78883,6.0084027 11.552507,6 11.473738,5.9972 11.391496,6.016328 11.314227,6.058594 L 4,10.425597 V 6.5 C 4,6.2230003 3.777,6 3.5,6 Z"
+     sodipodi:nodetypes="sssssccccccccccsccss" />
 </svg>

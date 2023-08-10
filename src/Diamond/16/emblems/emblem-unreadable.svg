@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="emblem-unreadable.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg371"
+     showguides="true" /><defs
+     id="defs368" /><path
+     d="M 0,8 C 0,2 2,0 8,0 c 6,0 8,2 8,8 0,6 -2,8 -8,8 C 2,16 0,14 0,8"
+     style="opacity:0.6;fill:#666666;fill-opacity:1;stroke-width:0.08"
+     id="path311" /><path
+     id="rect557"
+     style="fill:#ffffff"
+     d="m 12.535534,3.464466 c -0.391736,-0.3917363 -1.022478,-0.391736 -1.414214,0 L 8,6.5857864 4.8786796,3.464466 c -0.391736,-0.391736 -1.0224773,-0.3917363 -1.4142136,0 -0.3917363,0.3917363 -0.391736,1.0224776 0,1.4142136 L 6.5857864,8 3.464466,11.12132 c -0.3917358,0.391736 -0.3917363,1.022478 0,1.414214 0.3917363,0.391736 1.0224777,0.391736 1.4142136,0 L 8,9.4142136 11.12132,12.535534 c 0.391736,0.391736 1.022478,0.391736 1.414214,0 0.391736,-0.391736 0.391736,-1.022478 0,-1.414214 L 9.4142136,8 12.535534,4.8786796 c 0.391736,-0.391736 0.391736,-1.0224773 0,-1.4142136 z"
+     sodipodi:nodetypes="sscssscssscssscss" /></svg>
