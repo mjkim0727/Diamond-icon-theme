@@ -1,1 +1,53 @@
-folder-default-photo.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg11945"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="folder-photo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11947"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="36.636364"
+     inkscape:cx="10.986352"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11945"
+     showguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs11942">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#4d4d4d; }
+        </style>
+  </defs>
+  <path
+     id="path959"
+     style="fill:currentColor;stroke:none;stroke-width:2;stroke-linecap:round;-inkscape-stroke:none"
+     class="ColorScheme-Text"
+     d="M 9,4 7.5,6 H 5 C 3.8920052,6 3,6.8920054 3,8 v 8 c 0,1.107995 0.8920052,2 2,2 h 12 c 1.107995,0 2,-0.892005 2,-2 V 8 C 19,6.8920054 18.107995,6 17,6 H 14.5 L 13,4 Z m 0.5,1 h 3 L 14,7 h 3 c 0.571289,0 1,0.4287103 1,1 v 8 c 0,0.571289 -0.428711,1 -1,1 H 5 C 4.4287102,17 4,16.571289 4,16 V 8 C 4,7.4287103 4.4287102,7 5,7 H 8 Z M 11,8 c -2.2091345,0 -4.0000001,1.7908655 -4,4 -3e-7,2.209136 1.7908653,4 4,4 2.209135,0 4,-1.790864 4,-4 0,-2.2091346 -1.790865,-4.0000003 -4,-4 z m 0,1 c 1.65685,-2e-7 3,1.343149 3,3 0,1.656852 -1.34315,3 -3,3 -1.6568512,0 -3.0000002,-1.343148 -3,-3 -1e-7,-1.656851 1.3431489,-3 3,-3 z"
+     sodipodi:nodetypes="ccssssssssccccccssssssssccssssssssss" />
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg11945"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="folder-download.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11947"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="33.583333"
+     inkscape:cx="11.985112"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11945"
+     showguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs11942">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#dfdfdf; }
+        </style>
+  </defs>
+  <path
+     d="M 11.5,4 C 11.222998,4 11,4.2230001 11,4.5 v 11.765625 l -5.65625,-5.65625 c -0.1958702,-0.19587 -0.5111611,-0.19587 -0.7070312,0 -0.1958702,0.195867 -0.1958702,0.511162 0,0.707031 L 11,17.666017 c 0.238084,0.252426 0.325213,0.336033 0.5,0.333985 0.18144,0.0012 0.334632,-0.151488 0.5,-0.33594 l 6.363281,-6.347656 c 0.19587,-0.19587 0.19587,-0.511162 0,-0.707031 -0.19587,-0.19587 -0.511163,-0.19587 -0.707031,0 L 12,16.265625 V 4.5 C 12,4.223 11.777,4 11.5,4 Z m -7,15 C 4.2230003,19 4,19.222996 4,19.5 4,19.777002 4.2229997,20 4.5,20 h 14 C 18.777002,20 19,19.777001 19,19.5 19,19.222999 18.777001,19 18.5,19 Z"
+     style="fill:currentColor;fill-opacity:1;stroke-width:18.8977;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     id="path2029"
+     sodipodi:nodetypes="sscsccccccsccsssssssss" />
+</svg>
