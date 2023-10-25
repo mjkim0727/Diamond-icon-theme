@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg405"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="fcitx-anthy-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview407"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.636364"
+     inkscape:cx="10.986352"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg405" />
+  <defs
+     id="defs402">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#4d4d4d; }
+        </style>
+  </defs>
+  <path
+     id="path343"
+     style="fill:currentColor;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="M 6 3 C 4.3380051 3 3 4.3380051 3 6 L 3 16 C 3 17.661994 4.3380051 19 6 19 L 16 19 C 17.661994 19 19 17.661994 19 16 L 19 6 C 19 4.3380051 17.661994 3 16 3 L 6 3 z M 9.3339844 5 L 10.611328 5 C 10.537328 5.5555994 10.407756 6.1247634 10.222656 6.9765625 C 12.729654 6.8749626 14.609001 6.7398717 16 6.5761719 L 16 7.8554688 C 14.832001 7.9884686 12.90461 7.9216876 9.9453125 8.0546875 C 9.6490128 9.2397863 9.2588433 11.271604 8.7773438 12.345703 L 8.8886719 12.400391 C 10.258971 11.474492 11.224501 11.011719 12.1875 11.011719 C 13.409999 11.011719 14.355485 11.307791 15.021484 11.900391 C 15.688484 12.49299 16 13.251735 16 14.177734 C 16 15.251733 15.59614 15.666657 14.744141 16.222656 C 13.929141 16.740656 12.70577 17 11.076172 17 C 10.053973 17 9.1190989 17.006312 8 16.945312 L 8 15.498047 C 8.9442991 15.689047 9.8385449 15.722656 10.964844 15.722656 C 12.150043 15.722656 13.039813 15.574343 13.632812 15.277344 C 14.261812 14.944344 14.576172 14.843734 14.576172 14.177734 C 14.576172 13.584735 14.371843 13.121962 13.964844 12.789062 C 13.556844 12.418663 12.965299 12.234375 12.1875 12.234375 C 10.669002 12.234375 9.4447268 12.880836 8.1113281 14.177734 L 7.1113281 13.400391 C 7.7039275 12.438192 8.2216161 9.9747165 8.6660156 8.0117188 L 6 8.0117188 L 6 6.9804688 C 6.959099 6.9758688 7.9321135 6.9652937 8.9453125 6.9335938 L 9.3339844 5 z " />
+</svg>
